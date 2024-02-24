@@ -68,6 +68,6 @@ POST /events: Create a new event on Eventbrite.
 | category       |
 +----------------+
 
-## Deisgn Mockup
+## Design Mockup
 ![My Desktop View](https://i.imgur.com/UDTiXjK.png)
 rabhi checking in
