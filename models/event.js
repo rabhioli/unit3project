@@ -5,7 +5,8 @@ const EventSchema = new mongoose.Schema({
     image: String,
     start: Date,
     end: Date,
-    location: String
+    location: String,
+    price: Number
 
 });
 
