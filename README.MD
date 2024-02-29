@@ -71,3 +71,4 @@ POST /events: Create a new event on Eventbrite.
 ## Design Mockup
 ![My Desktop View](https://i.imgur.com/UDTiXjK.png)
 rabhi checking in
+Diana checking in too
